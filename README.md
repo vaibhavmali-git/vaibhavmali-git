@@ -1,6 +1,6 @@
 ### Hi, I'm Vaibhav 👋
 
-I'm a developer who enjoys building web applications and solving problems through code.
+I'm a developer who enjoys building web applications and solving problems through code.  
 These days, I'm learning more about React, TypeScript, Next.js, Node.js, Machine Coding, and System Design.
 
 
